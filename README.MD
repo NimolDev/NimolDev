@@ -1,34 +1,67 @@
-# Hi, I'm Nimol 👋 
-### iOS Developer |Swift, UIkit, SwiftUI Enthusiast, Objective-c
+# 👋 Hi, I'm Nimol
 
-I build high-performance, accessible, and elegant iOS applications. My focus is on **declarative UI**, **reactive programming**, and **modular architecture**.
-
----
-
-### 🛠️ My Toolbox
-- **Languages:** Swift (Expert), Objective-C (Legacy/Bridge)
-- **Frameworks:** SwiftUI, UIKit, Combine, SwiftData, Core ML
-- **Architecture:** MVVM-C, Clean Architecture, TCA (The Composable Architecture)
-- **CI/CD & Tools:** Xcode, Fastlane, GitHub Actions, SPM (Swift Package Manager)
-- **Currently Learning:** Metal Shaders & VisionOS development 🥽
+🚀 iOS Developer | Swift • UIKit • SwiftUI  
+📱 Building clean, scalable, and user-friendly iOS applications
 
 ---
 
-### 🚀 Featured Projects
-
-#### [Project Name 1] — [App Store Link if applicable]
-*A robust [Type of App, e.g., Finance] app built with **SwiftUI** and **Async/Await**.*
-- **Highlights:** Implemented Core ML for [Feature], achieved 99% crash-free sessions.
-- **Stack:** SwiftUI, SwiftData, Charts.
-
-#### [Project Name 2]
-*Open-source library for [Problem it solves, e.g., simplified Networking in Swift].*
-- **Stats:** Used by [X] developers, [X] stars on GitHub.
+## 🧑‍💻 About Me
+- iOS Developer with experience in **Swift, UIKit, SwiftUI, Objective-C**
+- Android Development with  **Java XML**
+- Strong focus on **performance, architecture, and UI/UX**
+- Interested in **system-level iOS behavior** (Push Notification, Callkit, PushKit, SiriKit)
+- Enjoy solving complex UI and interaction problems
 
 ---
 
-### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=nord)
+## 🛠 Tech Stack
+- **Languages:** Swift, Objective-C, java, Go, Python 
+- **UI:** UIKit, SwiftUI, Auto Layout, Android XML 
+- **Architecture:** MVC, MVVM, Clean Architecture
+- **Async:** GCD, Combine
+- **Storage:** UserDefaults, Core Data
+- **Networking:** URLSession, REST APIs
+- **Tools:** Xcode, Git, GitHub, GitLab, Android Studio
+- **Backend** Spring boot, Go(gin)
 
-### 📫 Let's Connect
-[LinkedIn](Your-Link) | [App Store Portfolio](Your-Link) | [Twitter/X](Your-Link)
+
+---
+
+## 🧠 What I Care About
+- Clean and maintainable code
+- Performance & memory optimization
+- Smooth animations and interactions
+- Writing reusable components
+
+---
+## Experience
+- Worke with webrtc 
+- Implement chatbot 
+- Build RAG chatbot
+
+---
+
+## 📫 Contact Me
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kuch-nimol-a5ba39244)
+- 📧 Email: [email](kuchnimol@gmail.com)
+
+---
+
+<p> 
+
+<img alt="Swift", src="https://img.shields.io/badge/swift-programing-red?logo=swift" \>
+<img alt="SwifUI" src="https://img.shields.io/badge/swiftUI-blue?logo=swift&logoColor=black" \>
+<img alt="UIkit" src="https://img.shields.io/badge/UIKit-blue?logo=uikit&logoColor=white">
+<img alt="Objective-C" src="https://img.shields.io/badge/Objective-C-black?logo=ObjectiveC&logoColor=white" \>
+<img alt="Go", src="https://img.shields.io/badge/go-programing-blue?logo=go" \>
+<img alt="Java" src="https://img.shields.io/badge/java-programing-red?logo=java" \>
+<img alt="Python" src="https://img.shields.io/badge/python-programing-yellow?logo=python&logoColor=yellow%20" \>
+<img alt="Gin" src="https://img.shields.io/badge/Gin-framwork-blue?logo=Gin&logoColor=green" \>
+<img alt="SpringBoot" src="https://img.shields.io/badge/Springboot-black?logo=spring&logoColor=green" \>
+<img alt="AndroidXML" src="https://img.shields.io/badge/AndroidXML-black?logo=android&logoColor=green" \>
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-teal?logo=fastapi&logoColor=white" \>
+
+</p>
+---
+
+⭐️ Feel free to check out my repositories and give feedback!
