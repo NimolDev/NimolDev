@@ -51,7 +51,7 @@
 
 <img alt="Swift", src="https://img.shields.io/badge/swift-programing-red?logo=swift" \>
 <img alt="SwifUI" src="https://img.shields.io/badge/swiftUI-blue?logo=swift&logoColor=black" \>
-<img alt="UIkit" src="https://img.shields.io/badge/UIKit-blue?logo=uikit&logoColor=white">
+<img alt="UIkit" src="https://img.shields.io/badge/UIKit-blue?logo=uikit&logoColor=white" \>
 <img alt="Objective-C" src="https://img.shields.io/badge/Objective-C-black?logo=ObjectiveC&logoColor=white" \>
 <img alt="Go", src="https://img.shields.io/badge/go-programing-blue?logo=go" \>
 <img alt="Java" src="https://img.shields.io/badge/java-programing-red?logo=java" \>
