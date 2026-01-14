@@ -35,7 +35,7 @@
 
 ---
 ## Experience
-- Worke with webrtc 
+- Work with webrtc 
 - Implement chatbot 
 - Build RAG chatbot
 
