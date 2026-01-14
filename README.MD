@@ -48,7 +48,6 @@
 ---
 
 <p> 
-
 <img alt="Swift", src="https://img.shields.io/badge/swift-programing-red?logo=swift" \>
 <img alt="SwifUI" src="https://img.shields.io/badge/swiftUI-blue?logo=swift&logoColor=black" \>
 <img alt="UIkit" src="https://img.shields.io/badge/UIKit-blue?logo=uikit&logoColor=white" \>
@@ -60,7 +59,6 @@
 <img alt="SpringBoot" src="https://img.shields.io/badge/Springboot-black?logo=spring&logoColor=green" \>
 <img alt="AndroidXML" src="https://img.shields.io/badge/AndroidXML-black?logo=android&logoColor=green" \>
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-teal?logo=fastapi&logoColor=white" \>
-
 </p>
 ---
 
