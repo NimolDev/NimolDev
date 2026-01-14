@@ -1,5 +1,5 @@
-# Hi, I'm [Your Name] 👋 
-### Senior iOS Engineer | SwiftUI Enthusiast | Open Source Contributor
+# Hi, I'm Nimol 👋 
+### iOS Developer |Swift, UIkit, SwiftUI Enthusiast, Objective-c
 
 I build high-performance, accessible, and elegant iOS applications. My focus is on **declarative UI**, **reactive programming**, and **modular architecture**.
 
