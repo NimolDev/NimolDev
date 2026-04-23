@@ -43,7 +43,7 @@
 
 ## 📫 Contact Me
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kuch-nimol-a5ba39244)
-- 📧 Email: [email](kuchnimol@gmail.com)
+- 📧 Email: [Email](kuchnimol@gmail.com)
 
 ---
 
